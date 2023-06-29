@@ -1,5 +1,5 @@
-Radius,Thickness Factor
-0,0.667
+Radius,Thickness Factor, Pitch, Roll
+0,0.667,1.3,-4.9
 10,0.735
 20,0.761
 30,0.847
