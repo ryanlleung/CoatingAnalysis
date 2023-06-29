@@ -12,6 +12,10 @@ The tape targetry coating jig is a device that allows the efficient coating of 1
 
 Based on thickness profile modelling, the corresponding thickness factor of each target can be estimated. A csv file is generated with the thickness factor of each target. This csv file can be used for quality control purposes.
 
+# Repository structure
+...
+
+
 # Installation
 
 Anaconda is recommended for installing the necessary packages for this project. Anaconda is a free and open-source distribution of the Python programming languages for scientific computing, that aims to simplify package management and deployment. 
