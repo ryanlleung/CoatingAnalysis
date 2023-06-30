@@ -1,5 +1,5 @@
-Radius,Thickness Factor
-0,1.021
+Radius,Thickness Factor,Full,Height
+0,1.021,0.667,0
 10,1.033
 20,1.021
 30,1.053
